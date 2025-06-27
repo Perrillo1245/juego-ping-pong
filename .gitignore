@@ -1,2 +1,9 @@
-# created by virtualenv automatically
-*
+__pycache__/
+Lib/
+Scripts/
+.venv/
+pyvenv
+*.pyc
+*.pyo
+*.pyd
+*.log
